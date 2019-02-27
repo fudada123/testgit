@@ -12,8 +12,8 @@ i111111
 
 1010101010
 
-<<<<<<< Updated upstream
 aaaaaa
-=======
+
 6666666
->>>>>>> Stashed changes
+
+kkkkkkkkk
